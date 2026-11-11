@@ -1,142 +1,73 @@
-<div align="center">
+<!-- Profile README for github.com/rounithrathesh-coder/rounithrathesh-coder -->
 
-  <h1>Rounith Rathesh</h1>
-  <p><strong>Full Stack Developer · AI Engineer · Systems Architect</strong></p>
-
-  <a href="https://github.com/rounithrathesh-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+ForenSyncAI+%26+Intelligent+Pipelines;React+%7C+TypeScript+%7C+Python+%7C+Java+%7C+SQL;Architecting+Distributed+Backends+%26+Databases" alt="Typing SVG Banner" />
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <a href="https://linkedin.com/in/rounith-rathesh" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/rounithrathesh-coder" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:rounithrathesh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 Profile Summary
-
-I am a **Full Stack Developer** and **AI Engineer** specializing in engineering intelligent web applications, automated document processing workflows, and high-performance database architectures. My focus centers on transforming unstructured data into actionable insights with LLMs, building resilient microservices and APIs, and practicing rigorous engineering fundamentals daily.
-
----
-
-### 🛠️ Technical Arsenal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0b4f6c,100:22d3ee&height=190&section=header&text=Rounith%20Rathesh&fontSize=46&fontColor=e0f2fe&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Developer%20%E2%80%94%20building%20with%20intent.&descAlignY=58&descSize=18" alt="Rounith Rathesh — Full Stack and AI Developer" />
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,flask,java,spring,postgres,mysql,sqlite,docker,git,github,bash,linux,vscode&perline=10&theme=dark" alt="Technical Stack Icons" />
-  </a>
+  <a href="https://github.com/rounithrathesh-coder"><img src="https://img.shields.io/badge/%40rounithrathesh--coder-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub: rounithrathesh-coder" /></a>
+  <img src="https://img.shields.io/badge/Project%20Lead-ForenSyncAI-0e7490?style=for-the-badge&labelColor=0b1220" alt="Project Lead at ForenSyncAI" />
+  <br /><br />
+  <i>Turning ideas into software—one thoughtful build at a time.</i>
 </div>
 
-<br/>
+<br />
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend & Web** | TypeScript, JavaScript (ES6+), React 18, Next.js, Tailwind CSS, Responsive UI Design |
-| **Backend & APIs** | Python, Flask, Java (Core & Concurrency), RESTful API Architecture, Subprocess Pipelines |
-| **Databases & Storage** | PostgreSQL, MySQL, SQLite, Schema Normalization (1NF–BCNF), Indexing, Partitioning |
-| **AI & Document Intelligence** | Large Language Models (LLMs), Unstructured Document Parsing, Structured Data Extraction |
-| **DevOps & Engineering** | Docker, Git, GitHub Actions (CI/CD Workflows), Linux Environment, Shell Scripting |
+## `whoami`
 
----
+```txt
+Full Stack & AI Developer
+Focused on building useful, well-shaped software.
+Learning in public through consistent Java and DBMS practice.
+```
 
-### 🚀 Featured Projects
-
-#### 🔍 [ForenSyncAI](https://github.com/rounithrathesh-coder/ForenSyncAI) — *Flagship AI Project*
-> **AI-Powered Forensic Intelligence & Automated Autopsy Correlation Dashboard**
-
-- **Overview:** Engineered an end-to-end intelligence system that automates the parsing and analysis of dense, unstructured forensic autopsy and crime scene reports.
-- **Key Architecture:** Employs large language model (LLM) extraction pipelines to parse multi-page medical and legal documentation, correlate cross-case evidence, identify chronological inconsistencies, and map anatomical trauma.
-- **Impact:** Compresses manual investigation analysis cycles from days to minutes across 9 dedicated forensic analytics modules.
-- **Stack:** `Python` `Flask` `React 18.3` `TypeScript` `Vite` `LLM Pipeline`
-- **Links:** [Repository](https://github.com/rounithrathesh-coder/ForenSyncAI) · [System Architecture](https://github.com/rounithrathesh-coder/ForenSyncAI#readme)
-
----
-
-#### 🔗 [PasteBin](https://github.com/rounithrathesh-coder/PasteBin)
-> **Enterprise Developer Code Workspace & Snippet Management Platform**
-
-- **Overview:** Full-stack developer workspace engineered for rapid code sharing, persistent snippet curation, and developer collaboration.
-- **Key Features:** Syntax highlighting across 50+ languages, real-time collaboration endpoints, snippet categorization, and optimized query access patterns.
-- **Stack:** `TypeScript` `React` `Node.js` `Tailwind CSS` `REST APIs`
-- **Links:** [Repository](https://github.com/rounithrathesh-coder/PasteBin)
-
----
-
-#### 📚 [BookNest](https://github.com/rounithrathesh-coder/BookNest)
-> **Desktop & Enterprise Library Management System**
-
-- **Overview:** Comprehensive library inventory and loan management system implementing relational transaction integrity and JDBC connectivity.
-- **Key Features:** User authentication, catalog search, book checkout tracking, overdue penalty calculations, and a custom FlatLaf dark user interface.
-- **Stack:** `Java` `MySQL` `JDBC` `FlatLaf Modern Dark UI`
-- **Links:** [Repository](https://github.com/rounithrathesh-coder/BookNest)
-
----
-
-#### 🤖 [EDITH](https://github.com/rounithrathesh-coder/EDITH)
-> **Smart India Hackathon (SIH) Intelligent Assistant Platform**
-
-- **Overview:** Smart domain assistant designed for interactive querying, contextual reasoning, and real-time response generation.
-- **Key Features:** Context retention, modular API integration, and structured output formatting for rapid decision-making.
-- **Stack:** `TypeScript` `AI APIs` `Modern Web`
-- **Links:** [Repository](https://github.com/rounithrathesh-coder/EDITH)
-
----
-
-### 📈 Continuous Engineering & Daily Practices
-
-To maintain peak technical sharpness, I run continuous daily practice repositories powered by automated CI/CD benchmarks:
-
-- ☕ **[Daily Java Practice](https://github.com/rounithrathesh-coder/java):** Continuous engineering repository tracking daily implementations of algorithmic patterns, multithreaded concurrency models (`CompletableFuture`, `BlockingQueue`, double-checked singletons), custom generic data structures, and modern Java features.
-- 🗄️ **[Daily DBMS Mastery](https://github.com/rounithrathesh-coder/dbms):** Continuous engineering repository investigating relational database internals, horizontal table partitioning, composite indexing strategies, transaction isolation levels, and complex window functions.
-
----
-
-### 📊 GitHub Activity & Analytics
+I like the space where **intelligent systems**, **clean product experiences**, and **strong engineering fundamentals** meet. I lead and build with the same goal: make complex things feel clear, useful, and real.
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=rounithrathesh-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Statistics" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=rounithrathesh-coder&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak Statistics" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,typescript,java&theme=dark" alt="Python, React, Flask, TypeScript, and Java" />
 </div>
 
-<br/>
+<br />
+
+## Selected builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◇ <a href="https://github.com/rounithrathesh-coder/ForenSyncAI">ForenSyncAI</a></h3>
+      <p>Intelligent forensic document analysis that turns unstructured autopsy reports and examination documents into structured intelligence.</p>
+      <sub>PDF parsing · LLM-powered extraction · analysis modules · executive summaries</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◇ <a href="https://github.com/rounithrathesh-coder/PasteBin">PasteBin</a></h3>
+      <p>A TypeScript project with a live deployment.</p>
+      <sub><a href="https://paste-bin-virid.vercel.app">View live site ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◇ <a href="https://github.com/rounithrathesh-coder/BookNest">BookNest</a></h3>
+      <p>A Java library management system project.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◇ Daily practice</h3>
+      <p>Building depth through consistent practice in <a href="https://github.com/rounithrathesh-coder/java">Java</a> and <a href="https://github.com/rounithrathesh-coder/dbms">DBMS</a>.</p>
+      <sub>Core concepts · algorithms · queries · schema design</sub>
+    </td>
+  </tr>
+</table>
+
+## Current signal
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rounithrathesh-coder&theme=tokyonight" alt="Contribution Activity & Profile Summary" width="98%" />
+  <a href="https://github.com/rounithrathesh-coder"><img height="165" src="https://github-readme-stats.vercel.app/api?username=rounithrathesh-coder&show_icons=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1&ring_color=38bdf8" alt="Rounith's GitHub statistics" /></a>
+  <a href="https://github.com/rounithrathesh-coder"><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rounithrathesh-coder&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="Rounith's GitHub contribution streak" /></a>
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=rounithrathesh-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rounithrathesh-coder&bg_color=020617&color=cbd5e1&line=22d3ee&point=67e8f9&area=true&hide_border=true" alt="Rounith's GitHub activity graph" />
 </div>
 
----
+<br />
 
-### 🎯 Current Focus & Exploration
+<div align="center"><sub>Less noise. More building.</sub></div>
 
-- 🔭 **Current Focus:** Advanced RAG (Retrieval-Augmented Generation) architectures, local LLM deployment, and microservices design.
-- 🌱 **Deepening:** High-throughput query optimization, database engine internals, and asynchronous JVM concurrency.
-- 💬 **Ask me about:** Full Stack Architecture (React, TypeScript, Python, Flask, Java), database normalization & optimization, and building AI tools.
-- ⚡ **Engineering Philosophy:** Clean code, strong foundations, modular abstractions, and measurable performance.
-
----
-
-<div align="center">
-  <sub>Built with care & continuous delivery · Rounith Rathesh</sub>
-  <br/><br/>
-  <a href="https://github.com/rounithrathesh-coder">
-    <img src="https://komarev.com/ghpvc/?username=rounithrathesh-coder&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0b4f6c,100:22d3ee&height=105&section=footer" alt="" />
