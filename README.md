@@ -9,8 +9,8 @@
   <br/><br/>
 
   <p>
-    <a href="https://linkedin.com/in/rounith-rathesh" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/rounithrathesh/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/rounithrathesh-coder" target="_blank">
@@ -28,12 +28,15 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 **Education:** Engineering student at **Rajalakshmi Engineering College (REC)**.
+- 🌐 **Community:** Outreach Associate at **Google Developer Groups (GDG) on Campus REC**.
+- 🏆 **Hackathons:** Smart India Hackathon (SIH) participant — building Agentic AI and contextual intelligence platforms.
 - 🔭 **What I Do:** Build full-stack web platforms, automated intelligence pipelines, and data-intensive systems.
 - 💡 **Engineering Philosophy:** Clean modular code, strong algorithmic foundations, and decoupled architecture.
 - 🛠️ **Core Specialties:** Modern React/TypeScript frontends, Python & Flask backends, and relational database engineering (PostgreSQL / MySQL).
 - 📚 **Continuous Learning:** Maintaining active daily practice repositories in Java and DBMS architecture.
 - 💬 **Ask Me About:** React, TypeScript, Python, Java, SQL query optimization, and document intelligence pipelines.
-- 📫 **Reach Me:** [rounithrathesh@gmail.com](mailto:rounithrathesh@gmail.com)
+- 📫 **Reach Me:** [rounithrathesh@gmail.com](mailto:rounithrathesh@gmail.com) · [LinkedIn Profile](https://www.linkedin.com/in/rounithrathesh/)
 
 ---
 
