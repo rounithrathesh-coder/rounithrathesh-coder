@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:0284c7&height=200&section=header&text=Rounith%20Rathesh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/rounithrathesh-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+Web+Platforms+%26+Intelligent+Pipelines;React+%7C+TypeScript+%7C+Python+%7C+Java+%7C+SQL;Architecting+Distributed+Backends+%26+Clean+Systems" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+Web+Platforms+%26+Intelligent+Pipelines;React+%7C+TypeScript+%7C+Python+%7C+Java+%7C+SQL;Architecting+Distributed+Backends+%26+Clean+APIs" alt="Typing SVG Banner" />
   </a>
 
   <br/><br/>
@@ -59,49 +59,58 @@
 
 ### 🚀 Featured Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/ForenSyncAI">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=ForenSyncAI&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="ForenSyncAI Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/PasteBin">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=PasteBin&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="PasteBin Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/BookNest">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=BookNest&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="BookNest Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/EDITH">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=EDITH&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="EDITH Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<details>
-<summary><strong>🔍 Click to expand detailed project breakdowns</strong></summary>
-<br/>
-
-- **[ForenSyncAI](https://github.com/rounithrathesh-coder/ForenSyncAI):** AI-powered forensic dashboard designed to parse complex, unstructured autopsy and forensic reports into structured intelligence, evidence cross-correlations, and trauma timelines using LLM pipelines.
-  - *Stack:* `Python` · `Flask` · `React 18.3` · `TypeScript` · `Vite` · `LLMs`
-- **[PasteBin](https://github.com/rounithrathesh-coder/PasteBin):** Full-stack developer workspace for rapid code sharing, persistent snippet curation, and multi-language syntax highlighting.
-  - *Stack:* `TypeScript` · `React` · `Node.js` · `Tailwind CSS` · `REST APIs`
-- **[BookNest](https://github.com/rounithrathesh-coder/BookNest):** Library inventory and loan management system implementing relational transaction integrity, JDBC connectivity, and a modern FlatLaf dark desktop interface.
-  - *Stack:* `Java` · `MySQL` · `JDBC` · `FlatLaf UI`
-- **[EDITH](https://github.com/rounithrathesh-coder/EDITH):** Interactive domain assistant built for Smart India Hackathon (SIH) with context-aware querying and response formatting.
-  - *Stack:* `TypeScript` · `AI APIs` · `Modern Web`
-
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/rounithrathesh-coder/ForenSyncAI">ForenSyncAI</a></h3>
+      <p><em>AI-Powered Forensic Intelligence & Autopsy Correlation Dashboard</em></p>
+      <p>Automated pipeline transforming dense, unstructured forensic autopsy and crime scene reports into structured intelligence, anatomical trauma mapping, and timeline correlations using LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/ForenSyncAI"><strong>Explore ForenSyncAI »</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/rounithrathesh-coder/PasteBin">PasteBin</a></h3>
+      <p><em>Enterprise Code Workspace & Snippet Platform</em></p>
+      <p>Full-stack developer workspace for rapid code sharing, syntax highlighting across 50+ languages, persistent snippet curation, and high-throughput API endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/PasteBin"><strong>Explore PasteBin »</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/rounithrathesh-coder/BookNest">BookNest</a></h3>
+      <p><em>Desktop & Enterprise Library Management System</em></p>
+      <p>Desktop and enterprise management solution featuring relational transaction integrity, JDBC connectivity, book circulation tracking, and a modern FlatLaf dark interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JDBC-Relational-blue?style=flat-square" alt="JDBC" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/BookNest"><strong>Explore BookNest »</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/rounithrathesh-coder/EDITH">EDITH</a></h3>
+      <p><em>Smart India Hackathon (SIH) Intelligent Assistant</em></p>
+      <p>Interactive domain intelligence assistant engineered for context-aware querying, fast response synthesis, and automated task execution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/AI_APIs-Intelligence-purple?style=flat-square" alt="AI APIs" />
+        <img src="https://img.shields.io/badge/Modern_Web-0ea5e9?style=flat-square" alt="Modern Web" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/EDITH"><strong>Explore EDITH »</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,32 +118,36 @@
 
 Continuous problem-solving repositories tracking daily implementations and automated CI/CD benchmarks:
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/java">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=java&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="Daily Java Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/rounithrathesh-coder/dbms">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=rounithrathesh-coder&repo=dbms&theme=tokyonight&border_color=38bdf8&title_color=38bdf8" alt="Daily DBMS Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-- ☕ **[Daily Java Practice](https://github.com/rounithrathesh-coder/java):** Daily algorithmic exercises, design patterns, multi-threading concurrency (`CompletableFuture`, `BlockingQueue`), custom generic collections, and modern Java features.
-- 🗄️ **[Daily DBMS Mastery](https://github.com/rounithrathesh-coder/dbms):** Daily deep-dives into relational schema design, horizontal table partitioning, composite indexes, transaction isolation levels, and recursive CTEs.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/rounithrathesh-coder/java">Daily Java Practice</a></h3>
+      <p>Daily algorithmic exercises, design patterns, multi-threading concurrency (<code>CompletableFuture</code>, <code>BlockingQueue</code>, thread-safe singletons), custom generic collections, and modern Java features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Daily%20Push%20Active-brightgreen?style=flat-square" alt="Active" />
+        <img src="https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17+" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/java"><strong>Explore Java Daily Challenges »</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ <a href="https://github.com/rounithrathesh-coder/dbms">Daily DBMS Mastery</a></h3>
+      <p>Daily deep-dives into relational schema design, horizontal table partitioning, composite indexes, transaction isolation levels, and recursive CTEs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Daily%20Push%20Active-brightgreen?style=flat-square" alt="Active" />
+        <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+      <p>👉 <a href="https://github.com/rounithrathesh-coder/dbms"><strong>Explore DBMS Daily Challenges »</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=rounithrathesh-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=rounithrathesh-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Statistics" width="48%" />
+  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=rounithrathesh-coder&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak Statistics" width="48%" />
 </div>
 
@@ -142,12 +155,6 @@ Continuous problem-solving repositories tracking daily implementations and autom
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rounithrathesh-coder&theme=tokyonight" alt="Contribution Activity & Profile Summary" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=rounithrathesh-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
 
 ---
